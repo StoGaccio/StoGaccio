@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @StoGaccio
+- 🌱 I’m currently learning reverse engineering
